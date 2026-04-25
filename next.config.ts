@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/ingest/:path*",
-        destination: "http://hehe.cnaworld.xyz:31492/:path*",
+        destination: "http://c.ghasemi.works:31492/:path*",
       },
     ];
   },
